@@ -31,9 +31,7 @@
 ### Figma
 Diseño de la aplicación: [Ver en Figma](#)
 
-### Capturas de Pantalla
 
-*Próximamente...*
 
 ---
 
@@ -258,7 +256,7 @@ cd ControlEventos
 
 **David Campos**  
 Carné: CH220048  
-Universidad Francisco Gavidia
+Universidad Don Bosco
 
 ---
 
@@ -282,14 +280,13 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 ## 📞 Contacto
 
-- **Email**: [tu-email@ejemplo.com]
 - **GitHub**: [@David-301](https://github.com/David-301)
 
 ---
 
 ## 🙏 Agradecimientos
 
-- Universidad Francisco Gavidia
+
 - Firebase y Google Cloud
 - Comunidad de Android Developers
 - Jetpack Compose Team
