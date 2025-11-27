@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EventCenter</string>
+
+    <!-- Google Sign-In -->
+    <string name="default_web_client_id">99585587286-a2vkcm5r7ic5oof9belh8nh3hna38dl4.apps.googleusercontent.com</string>
+
+    <!-- Auth -->
+    <string name="welcome_back">Bienvenido de nuevo</string>
+    <string name="create_account">Crea tu cuenta</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="sign_out">Cerrar Sesión</string>
+
+    <!-- Errors -->
+    <string name="error_email_required">El email es requerido</string>
+    <string name="error_password_required">La contraseña es requerida</string>
+    <string name="error_passwords_dont_match">Las contraseñas no coinciden</string>
+
+    <!-- Success -->
+    <string name="success_login">Inicio de sesión exitoso</string>
+    <string name="success_register">Registro exitoso</string>
+</resources>

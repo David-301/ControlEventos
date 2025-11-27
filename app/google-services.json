@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99585587286",
+    "project_id": "eventosapp-ee402",
+    "storage_bucket": "eventosapp-ee402.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99585587286:android:cedabda678b1fc512923f7",
+        "android_client_info": {
+          "package_name": "com.ch220048.eventcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99585587286-90k5eousf5gicdqhnkb0l0fndk8vtf7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ch220048.eventcenter",
+            "certificate_hash": "b064ff4693afc3651bc9b44ee053c9090626f3cc"
+          }
+        },
+        {
+          "client_id": "99585587286-a2vkcm5r7ic5oof9belh8nh3hna38dl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs774XOa-UdHnxgOVEJQqGgVo50hizb98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99585587286-a2vkcm5r7ic5oof9belh8nh3hna38dl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
