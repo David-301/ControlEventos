@@ -29,7 +29,7 @@
 ## 🎨 Diseño
 
 ### Figma
-Diseño de la aplicación: [Ver en Figma](#)
+Diseño de la aplicación: https://www.figma.com/design/VzmYbq1wTlud90Xif8ok2N/DSM---Dise%C3%B1o?node-id=0-1&t=fykIrhATboW6OTh3-1
 
 
 
